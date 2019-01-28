@@ -1,4 +1,4 @@
-# rfbfidility
+
 
 This application was generated using JHipster 5.8.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.8.0](https://www.jhipster.tech/documentation-archive/v5.8.0).
 
@@ -235,5 +235,5 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [protractor]: https://angular.github.io/protractor/
 [leaflet]: http://leafletjs.com/
 [definitelytyped]: http://definitelytyped.org/
-#   l o y a l t y   R F B   T a l e b   T u t o r i a l  
- 
+# loyalty RFB Taleb Tutorial
+
